@@ -14,3 +14,12 @@
 ---
 
 **en**: The project consists of a page made with HTML, CSS and TypeScript with Angular 12 that consumes a REST API to present to the user a collection of cards containing information about company stocks, simulating a Home Broker system. The repository of the project responsible for the API can be found here: [santander-homebroker-backend](https://github.com/Yofiel/santander-homebroker-backend/).
+
+## Preview
+
+![Screenshot 2021-06-16 at 13-27-48 Home Broker](https://user-images.githubusercontent.com/64466694/122258165-1c9f6300-cea7-11eb-8577-eb902fdc23ce.png)
+
+![Screenshot 2021-06-16 at 13-28-08 Home Broker](https://user-images.githubusercontent.com/64466694/122258191-25903480-cea7-11eb-9dfd-44fd6d7ad537.png)
+
+![Screenshot 2021-06-16 at 13-28-18 Home Broker](https://user-images.githubusercontent.com/64466694/122258200-27f28e80-cea7-11eb-94c2-8682fb52bc3f.png)
+
