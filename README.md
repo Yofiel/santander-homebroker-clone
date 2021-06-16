@@ -1,27 +1,16 @@
-# Homebroker
+# Clone do Home Broker do Santander (Santander Home Broker Clone)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+**pt_BR**: Clone da tela de cotações/home broker do Santander. Esse projeto foi feito na Santander Dev Week patrocionada pelo Santander.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+**en**: Clone of the Santander home broker screen. This project was done at Santander Dev Week sponsored by Santander.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Sobre (About)
 
-## Build
+**pt_BR**: O projeto consiste em uma página feita com HTML, CSS e TypeScript com Angular 12 que consome uma API REST para apresentar para o usuário uma coleção de cards contendo informações sobre cotações de empresas, simulando um sistema de Home Broker. O repositório do projeto responsável pela API pode ser encontrado aqui:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**en**: The project consists of a page made with HTML, CSS and TypeScript with Angular 12 that consumes a REST API to present to the user a collection of cards containing information about company stocks, simulating a Home Broker system. The repository of the project responsible for the API can be found here:
